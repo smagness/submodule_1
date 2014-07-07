@@ -1,3 +1,5 @@
 created new source file in submodule_1
 
 edit the file
+
+now what happens, just a normal merge I suppose
